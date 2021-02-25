@@ -23,12 +23,11 @@ nothing for now
 
 Clone it from GitHub and run `npm i` to install all the dependencies. 
 
-## Mock
+## Demo
 ![Picture](./Develop/Assets/Readme-Generator.gif)
 
-## Licence
-
-MIT
+ ## License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributors
 
